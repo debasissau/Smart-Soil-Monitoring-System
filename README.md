@@ -78,4 +78,4 @@ Debasis Sau
 
 Electronics and Communication Engineering
 
-GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_LINK)
+GitHub: [Your GitHub Profile](https://github.com/debasissau/Smart-Soil-Monitoring-System/tree/main)
